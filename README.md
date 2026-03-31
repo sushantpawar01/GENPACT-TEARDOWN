@@ -3,7 +3,7 @@
 **Presented By:**
 
 * Sushant (2022IMG-062)
-* Prashant Sharma (2022IMG-048)
+
 
 ---
 
