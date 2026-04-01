@@ -39,17 +39,17 @@ Genpact generates revenue primarily through multi-year BPM contracts, based on s
 
 ## Client Personas
 
-### 1. Anita Sharma (46) - CFO, Manufacturing Enterprise
+### 1. Anita Sharma (45) - CFO, Manufacturing Enterprise
 * **Bio:** Anita oversees global finance operations. Her challenge is controlling costs and maintaining visibility over multi-entity financial processes.
 * **Pain Points:** Month-end close takes 10+ days. Manual reconciliations and data errors. No predictive forecasting.
 * **Goals:** Automate reconciliations, improve forecast accuracy, and reduce finance cost by 30%.
 
-### 2. Rahul Verma (40) - VP Supply Chain, FMCG Company
+### 2. Rahul Verma (42) - VP Supply Chain, FMCG Company
 * **Bio:** Rahul manages procurement and logistics across 30 countries. He struggles with delayed shipments, poor visibility, and inefficient vendor management.
 * **Pain Points:** No end-to-end supply chain visibility. Reactive rather than predictive planning. High inventory and logistics costs.
 * **Goals:** Create a real-time “control tower.” Optimize transportation and procurement spend. Reduce logistics costs by 20%.
 
-### 3. Maria Lopez (38) - Head of Customer Experience, Banking Sector
+### 3. Maria Lopez (36) - Head of Customer Experience, Banking Sector
 * **Bio:** Maria oversees a large contact center. Customer satisfaction is declining due to inconsistent service and slow response times.
 * **Pain Points:** Long resolution times. Lack of unified customer view. Reactive complaint handling.
 * **Goals:** Achieve 95% First Contact Resolution. Integrate data across channels. Use AI for proactive service.
