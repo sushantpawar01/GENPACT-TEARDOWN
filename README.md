@@ -25,7 +25,7 @@ Genpact generates revenue primarily through multi-year BPM contracts, based on s
 
 ## Market Analysis: BPM Sector Positioning
 
-### Competitor Analysis
+### Competitor's Analysis
 
 | Feature | Accenture | WNS | Genpact |
 | :--- | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Genpact generates revenue primarily through multi-year BPM contracts, based on s
 
 ---
 
-## Client Personas
+## Client's Personas
 
 ### 1. Anita Sharma (45) - CFO, Manufacturing Enterprise
 * **Bio:** Anita oversees global finance operations. Her challenge is controlling costs and maintaining visibility over multi-entity financial processes.
